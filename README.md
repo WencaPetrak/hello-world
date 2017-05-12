@@ -1,2 +1,2 @@
 # hello-world
-Test
+Testovací verze - jsou tu jenom samé kraviny
